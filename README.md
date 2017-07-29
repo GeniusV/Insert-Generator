@@ -4,7 +4,7 @@
 
 ## Usage
 
-g = DateGenerator([table-name], [dict with field names and factories], [number to generate])
+`g = DateGenerator([table-name], [dict with field names and factories], [number to generate])`
 
 ``` python
     name = NameFactory()
