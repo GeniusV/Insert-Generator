@@ -1,6 +1,6 @@
 import unittest
 
-from genrators.PasswordGenerator import PasswordFactory
+from generators.PasswordFactory import PasswordFactory
 from Generator import DateGenerator
 
 
